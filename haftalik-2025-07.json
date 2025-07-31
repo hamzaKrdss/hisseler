@@ -1,0 +1,79 @@
+{
+  "analiz_tarihi": "31.07.2025",
+  "analiz_tipi": "Haftalık Teknik Analiz",
+  "analiz_donemi": "28.07.2025 - 03.08.2025",
+  "hisseler": [
+    {
+      "hisse_adi": "TAVHL",
+      "guncel_fiyat": 15.5,
+      "haftalik_ortalama_satis": 14.8,
+      "haftalik_tahmini_satis": 16.2,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "SASA",
+      "guncel_fiyat": 20.2,
+      "haftalik_ortalama_satis": 19.5,
+      "haftalik_tahmini_satis": 21.0,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "PETKM",
+      "guncel_fiyat": 8.7,
+      "haftalik_ortalama_satis": 8.3,
+      "haftalik_tahmini_satis": 9.2,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "ARCLK",
+      "guncel_fiyat": 35.1,
+      "haftalik_ortalama_satis": 34.0,
+      "haftalik_tahmini_satis": 36.5,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "KRDMD",
+      "guncel_fiyat": 12.8,
+      "haftalik_ortalama_satis": 12.2,
+      "haftalik_tahmini_satis": 13.5,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "TURSG",
+      "guncel_fiyat": 4.9,
+      "haftalik_ortalama_satis": 4.6,
+      "haftalik_tahmini_satis": 5.2,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "EREGL",
+      "guncel_fiyat": 28.5,
+      "haftalik_ortalama_satis": 27.8,
+      "haftalik_tahmini_satis": 29.5,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "BIMAS",
+      "guncel_fiyat": 7.2,
+      "haftalik_ortalama_satis": 6.9,
+      "haftalik_tahmini_satis": 7.6,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "ISCTR",
+      "guncel_fiyat": 18.3,
+      "haftalik_ortalama_satis": 17.7,
+      "haftalik_tahmini_satis": 19.0,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "VAKBN",
+      "guncel_fiyat": 11.5,
+      "haftalik_ortalama_satis": 11.0,
+      "haftalik_tahmini_satis": 12.0,
+      "risk_seviyesi": "Düşük"
+    }
+  ],
+  "genel_analiz": "Haftalık piyasa genel durumu olumlu.  Alım sinyalleri güçlü ancak küresel ekonomik belirsizliklerin takip edilmesi önerilir.",
+  "sektorel_analiz": "Enerji ve finans sektörleri en iyi performansı gösterdi."
+}

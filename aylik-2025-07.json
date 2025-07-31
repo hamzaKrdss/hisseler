@@ -1,0 +1,80 @@
+{
+  "analiz_tarihi": "31.07.2025",
+  "analiz_tipi": "Aylık Teknik Analiz",
+  "analiz_donemi": "01.07.2025 - 31.07.2025",
+  "hisseler": [
+    {
+      "hisse_adi": "TAVHL",
+      "guncel_fiyat": 15.5,
+      "aylik_ortalama_satis": 14.8,
+      "aylik_tahmini_satis": 16.2,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "SISE",
+      "guncel_fiyat": 25.2,
+      "aylik_ortalama_satis": 24.5,
+      "aylik_tahmini_satis": 26.8,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "PETKM",
+      "guncel_fiyat": 12.7,
+      "aylik_ortalama_satis": 12.1,
+      "aylik_tahmini_satis": 13.5,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "EREGL",
+      "guncel_fiyat": 7.8,
+      "aylik_ortalama_satis": 7.5,
+      "aylik_tahmini_satis": 8.2,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "ARCLK",
+      "guncel_fiyat": 48.5,
+      "aylik_ortalama_satis": 47.0,
+      "aylik_tahmini_satis": 50.1,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "BIMAS",
+      "guncel_fiyat": 21.2,
+      "aylik_ortalama_satis": 20.5,
+      "aylik_tahmini_satis": 22.5,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "TURGD",
+      "guncel_fiyat": 3.7,
+      "aylik_ortalama_satis": 3.5,
+      "aylik_tahmini_satis": 3.9,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "SABAN",
+      "guncel_fiyat": 18.9,
+      "aylik_ortalama_satis": 18.2,
+      "aylik_tahmini_satis": 19.6,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "KCHOL",
+      "guncel_fiyat": 5.1,
+      "aylik_ortalama_satis": 4.8,
+      "aylik_tahmini_satis": 5.4,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "ISCTR",
+      "guncel_fiyat": 9.3,
+      "aylik_ortalama_satis": 9.0,
+      "aylik_tahmini_satis": 9.7,
+      "risk_seviyesi": "Düşük"
+    }
+  ],
+  "genel_analiz": "Aylık piyasa genel durumu olumlu seyirde.  Yüksek volatilite bekleniyor.",
+  "sektorel_analiz": "Enerji ve finans sektörleri en iyi performansı gösterdi.",
+  "makroekonomik_etkiler": "Enflasyonun düşüş eğiliminde olması ve büyüme oranlarının artması piyasayı olumlu etkiledi."
+}
