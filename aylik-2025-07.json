@@ -1,0 +1,80 @@
+{
+  "analiz_tarihi": "31.07.2025",
+  "analiz_tipi": "Aylık Teknik Analiz",
+  "analiz_donemi": "01.07.2025 - 31.07.2025",
+  "hisseler": [
+    {
+      "hisse_adi": "TAVHL",
+      "guncel_fiyat": 15.5,
+      "aylik_ortalama_satis": 14.0,
+      "aylik_tahmini_satis": 17.0,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "SISE",
+      "guncel_fiyat": 25.75,
+      "aylik_ortalama_satis": 24.5,
+      "aylik_tahmini_satis": 28.0,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "ARCLK",
+      "guncel_fiyat": 120.0,
+      "aylik_ortalama_satis": 115.0,
+      "aylik_tahmini_satis": 130.0,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "PETKM",
+      "guncel_fiyat": 8.5,
+      "aylik_ortalama_satis": 7.75,
+      "aylik_tahmini_satis": 9.5,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "KRDMD",
+      "guncel_fiyat": 33.25,
+      "aylik_ortalama_satis": 31.0,
+      "aylik_tahmini_satis": 36.0,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "EREGL",
+      "guncel_fiyat": 10.75,
+      "aylik_ortalama_satis": 9.8,
+      "aylik_tahmini_satis": 11.5,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "TURGD",
+      "guncel_fiyat": 45.0,
+      "aylik_ortalama_satis": 42.0,
+      "aylik_tahmini_satis": 48.0,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "BIMAS",
+      "guncel_fiyat": 22.5,
+      "aylik_ortalama_satis": 21.0,
+      "aylik_tahmini_satis": 25.0,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "SABAN",
+      "guncel_fiyat": 75.0,
+      "aylik_ortalama_satis": 70.0,
+      "aylik_tahmini_satis": 80.0,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "KOZAA",
+      "guncel_fiyat": 18.75,
+      "aylik_ortalama_satis": 17.5,
+      "aylik_tahmini_satis": 20.5,
+      "risk_seviyesi": "Yüksek"
+    }
+  ],
+  "genel_analiz": "Temmuz ayı piyasası genel olarak istikrarlı seyretti.  Bazı sektörlerde yükseliş trendi gözlemlenirken, diğerleri yatay seyretti.  Önerilen hisseler teknik analiz ve sektör performansına göre seçilmiştir.",
+  "sektorel_analiz": "Turizm ve enerji sektörleri aylık bazda en iyi performans gösteren sektörler arasındaydı.",
+  "makroekonomik_etkiler": "Döviz kurlarındaki dalgalanmalar ve enflasyon oranları piyasayı etkileyen başlıca makroekonomik faktörlerdi.  Ancak, bu etkiler hisse senedi performansına göre değişkenlik gösterdi."
+}

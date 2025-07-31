@@ -1,0 +1,77 @@
+{
+  "analiz_tarihi": "31.07.2025",
+  "analiz_tipi": "Günlük Teknik Analiz",
+  "hisseler": [
+    {
+      "hisse_adi": "TAVHL",
+      "guncel_fiyat": 15.5,
+      "ortalama_satis_fiyati": 14.8,
+      "tahmini_satis_fiyati": 16.2,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "SISE",
+      "guncel_fiyat": 12.75,
+      "ortalama_satis_fiyati": 12.2,
+      "tahmini_satis_fiyati": 13.5,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "PETKM",
+      "guncel_fiyat": 25.8,
+      "ortalama_satis_fiyati": 24.5,
+      "tahmini_satis_fiyati": 27.0,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "EREGL",
+      "guncel_fiyat": 7.9,
+      "ortalama_satis_fiyati": 7.5,
+      "tahmini_satis_fiyati": 8.3,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "ARCLK",
+      "guncel_fiyat": 18.2,
+      "ortalama_satis_fiyati": 17.5,
+      "tahmini_satis_fiyati": 19.0,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "TKFEN",
+      "guncel_fiyat": 3.75,
+      "ortalama_satis_fiyati": 3.5,
+      "tahmini_satis_fiyati": 4.0,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "KRDMD",
+      "guncel_fiyat": 9.4,
+      "ortalama_satis_fiyati": 9.0,
+      "tahmini_satis_fiyati": 9.8,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "BIMAS",
+      "guncel_fiyat": 22.5,
+      "ortalama_satis_fiyati": 21.8,
+      "tahmini_satis_fiyati": 23.5,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "SABAN",
+      "guncel_fiyat": 45.75,
+      "ortalama_satis_fiyati": 44.0,
+      "tahmini_satis_fiyati": 47.5,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "KOZAL",
+      "guncel_fiyat": 6.2,
+      "ortalama_satis_fiyati": 5.8,
+      "tahmini_satis_fiyati": 6.6,
+      "risk_seviyesi": "Düşük"
+    }
+  ],
+  "genel_analiz": "Piyasa genelinde orta seviyede bir yükseliş eğilimi gözlemlenmektedir.  Önerilen hisseler, teknik analiz sonuçlarına göre seçilmiş olup, yatırım kararı vermeden önce kendi araştırmanızı yapmanız önerilir. Risk seviyeleri, hisse senedinin volatilitesine göre belirlenmiştir.  Yüksek riskli hisselerde daha yüksek getiri potansiyeli olsa da, kayıp riski de daha yüksektir."
+}
