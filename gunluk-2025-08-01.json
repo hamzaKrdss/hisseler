@@ -1,0 +1,77 @@
+{
+  "analiz_tarihi": "01.08.2025",
+  "analiz_tipi": "Günlük Teknik Analiz",
+  "hisseler": [
+    {
+      "hisse_adi": "THYAO",
+      "guncel_fiyat": 100.5,
+      "ortalama_satis_fiyati": 95.0,
+      "tahmini_satis_fiyati": 110.0,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "GARAN",
+      "guncel_fiyat": 15.75,
+      "ortalama_satis_fiyati": 15.2,
+      "tahmini_satis_fiyati": 16.5,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "AKBNK",
+      "guncel_fiyat": 22.3,
+      "ortalama_satis_fiyati": 21.8,
+      "tahmini_satis_fiyati": 23.5,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "SASA",
+      "guncel_fiyat": 55.2,
+      "ortalama_satis_fiyati": 53.0,
+      "tahmini_satis_fiyati": 58.0,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "KRDMD",
+      "guncel_fiyat": 8.9,
+      "ortalama_satis_fiyati": 8.5,
+      "tahmini_satis_fiyati": 9.5,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "TAVHL",
+      "guncel_fiyat": 12.1,
+      "ortalama_satis_fiyati": 11.8,
+      "tahmini_satis_fiyati": 13.0,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "EREGL",
+      "guncel_fiyat": 34.5,
+      "ortalama_satis_fiyati": 33.5,
+      "tahmini_satis_fiyati": 36.0,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "TURGY",
+      "guncel_fiyat": 28.8,
+      "ortalama_satis_fiyati": 27.5,
+      "tahmini_satis_fiyati": 30.5,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "BIMAS",
+      "guncel_fiyat": 7.6,
+      "ortalama_satis_fiyati": 7.3,
+      "tahmini_satis_fiyati": 8.0,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "PETKM",
+      "guncel_fiyat": 18.2,
+      "ortalama_satis_fiyati": 17.5,
+      "tahmini_satis_fiyati": 19.0,
+      "risk_seviyesi": "Düşük"
+    }
+  ],
+  "genel_analiz": "Piyasa genelinde hafif yükseliş eğilimi gözlemlenmektedir.  Önerilen hisseler, teknik analizlere göre kısa vadeli potansiyel sunmaktadır. Ancak yatırım kararı almadan önce kendi araştırmanızı yapmanız ve risk toleransınızı değerlendirmeniz önemlidir."
+}

@@ -1,0 +1,79 @@
+{
+  "analiz_tarihi": "01.08.2025",
+  "analiz_tipi": "Haftalık Teknik Analiz",
+  "analiz_donemi": "28.07.2025 - 03.08.2025",
+  "hisseler": [
+    {
+      "hisse_adi": "THYAO",
+      "guncel_fiyat": 100.5,
+      "ortalama_satis_fiyati": 98.0,
+      "tahmini_satis_fiyati": 105.0,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "GARAN",
+      "guncel_fiyat": 25.75,
+      "ortalama_satis_fiyati": 25.0,
+      "tahmini_satis_fiyati": 27.0,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "AKBNK",
+      "guncel_fiyat": 18.2,
+      "ortalama_satis_fiyati": 17.5,
+      "tahmini_satis_fiyati": 19.0,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "SASA",
+      "guncel_fiyat": 150.0,
+      "ortalama_satis_fiyati": 145.0,
+      "tahmini_satis_fiyati": 155.0,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "KRDMD",
+      "guncel_fiyat": 3.5,
+      "ortalama_satis_fiyati": 3.25,
+      "tahmini_satis_fiyati": 3.75,
+      "risk_seviyesi": "Yüksek"
+    },
+    {
+      "hisse_adi": "TAVHL",
+      "guncel_fiyat": 12.8,
+      "ortalama_satis_fiyati": 12.2,
+      "tahmini_satis_fiyati": 13.5,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "EREGL",
+      "guncel_fiyat": 22.5,
+      "ortalama_satis_fiyati": 21.8,
+      "tahmini_satis_fiyati": 23.5,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "PETKM",
+      "guncel_fiyat": 6.75,
+      "ortalama_satis_fiyati": 6.5,
+      "tahmini_satis_fiyati": 7.0,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "BIMAS",
+      "guncel_fiyat": 45.25,
+      "ortalama_satis_fiyati": 44.0,
+      "tahmini_satis_fiyati": 47.0,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "ISCTR",
+      "guncel_fiyat": 11.0,
+      "ortalama_satis_fiyati": 10.5,
+      "tahmini_satis_fiyati": 11.5,
+      "risk_seviyesi": "Orta"
+    }
+  ],
+  "genel_analiz": "Haftalık piyasa genel durumu olumlu.  Yükseliş trendi devam ediyor, ancak volatilite orta seviyede.  Dikkatli olmakta fayda var.",
+  "sektorel_analiz": "Bankacılık ve enerji sektörleri hafta boyunca iyi performans gösterdi."
+}
