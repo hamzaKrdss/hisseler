@@ -1,0 +1,77 @@
+{
+  "analiz_tarihi": "05.08.2025",
+  "analiz_tipi": "Günlük Teknik Analiz",
+  "hisseler": [
+    {
+      "hisse_adi": "THYAO",
+      "guncel_fiyat": 100.5,
+      "ortalama_satis_fiyati": 98.0,
+      "tahmini_satis_fiyati": 105.0,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "GARAN",
+      "guncel_fiyat": 15.75,
+      "ortalama_satis_fiyati": 15.5,
+      "tahmini_satis_fiyati": 16.25,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "AKBNK",
+      "guncel_fiyat": 20.2,
+      "ortalama_satis_fiyati": 19.8,
+      "tahmini_satis_fiyati": 20.8,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "SASA",
+      "guncel_fiyat": 55.3,
+      "ortalama_satis_fiyati": 54.0,
+      "tahmini_satis_fiyati": 57.0,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "KRDMD",
+      "guncel_fiyat": 8.85,
+      "ortalama_satis_fiyati": 8.6,
+      "tahmini_satis_fiyati": 9.2,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "TCELL",
+      "guncel_fiyat": 12.1,
+      "ortalama_satis_fiyati": 11.9,
+      "tahmini_satis_fiyati": 12.5,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "EREGL",
+      "guncel_fiyat": 28.5,
+      "ortalama_satis_fiyati": 27.5,
+      "tahmini_satis_fiyati": 29.5,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "BIMAS",
+      "guncel_fiyat": 4.55,
+      "ortalama_satis_fiyati": 4.4,
+      "tahmini_satis_fiyati": 4.8,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "PETKM",
+      "guncel_fiyat": 22.2,
+      "ortalama_satis_fiyati": 21.8,
+      "tahmini_satis_fiyati": 23.0,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "ARCLK",
+      "guncel_fiyat": 35.6,
+      "ortalama_satis_fiyati": 34.5,
+      "tahmini_satis_fiyati": 37.0,
+      "risk_seviyesi": "Orta"
+    }
+  ],
+  "genel_analiz": "Piyasa genelinde hafif yükseliş trendi gözlemlenmektedir.  Önerilen hisseler, teknik analiz sonuçlarına göre seçilmiştir ancak yatırım kararı almadan önce kendi araştırmanızı yapmanız önemlidir.  Risk seviyeleri, belirtilen tahminlerin gerçekleşme olasılığını ve piyasa dalgalanmalarına karşı hassasiyeti yansıtmaktadır."
+}
