@@ -1,5 +1,5 @@
 {
-  "analiz_tarihi": "01.08.2025",
+  "analiz_tarihi": "05.08.2025",
   "analiz_tipi": "Aylık Teknik Analiz",
   "analiz_donemi": "01.08.2025 - 31.08.2025",
   "hisseler": [
@@ -13,7 +13,7 @@
     {
       "hisse_adi": "GARAN",
       "guncel_fiyat": 15.75,
-      "ortalama_satis_fiyati": 15.5,
+      "ortalama_satis_fiyati": 15.2,
       "tahmini_satis_fiyati": 16.5,
       "risk_seviyesi": "Düşük"
     },
@@ -21,14 +21,14 @@
       "hisse_adi": "AKBNK",
       "guncel_fiyat": 12.2,
       "ortalama_satis_fiyati": 11.8,
-      "tahmini_satis_fiyati": 12.8,
+      "tahmini_satis_fiyati": 13.0,
       "risk_seviyesi": "Düşük"
     },
     {
       "hisse_adi": "SASA",
-      "guncel_fiyat": 25.3,
-      "ortalama_satis_fiyati": 24.5,
-      "tahmini_satis_fiyati": 26.5,
+      "guncel_fiyat": 25.5,
+      "ortalama_satis_fiyati": 24.0,
+      "tahmini_satis_fiyati": 27.0,
       "risk_seviyesi": "Orta"
     },
     {
@@ -40,41 +40,41 @@
     },
     {
       "hisse_adi": "TCELL",
-      "guncel_fiyat": 18.1,
+      "guncel_fiyat": 18.2,
       "ortalama_satis_fiyati": 17.5,
       "tahmini_satis_fiyati": 19.0,
       "risk_seviyesi": "Düşük"
     },
     {
-      "hisse_adi": "PETKM",
-      "guncel_fiyat": 4.85,
-      "ortalama_satis_fiyati": 4.6,
-      "tahmini_satis_fiyati": 5.2,
+      "hisse_adi": "EREGL",
+      "guncel_fiyat": 32.1,
+      "ortalama_satis_fiyati": 30.0,
+      "tahmini_satis_fiyati": 35.0,
       "risk_seviyesi": "Orta"
     },
     {
-      "hisse_adi": "EREGL",
-      "guncel_fiyat": 22.4,
-      "ortalama_satis_fiyati": 21.5,
-      "tahmini_satis_fiyati": 23.5,
-      "risk_seviyesi": "Orta"
+      "hisse_adi": "PETKM",
+      "guncel_fiyat": 7.85,
+      "ortalama_satis_fiyati": 7.5,
+      "tahmini_satis_fiyati": 8.2,
+      "risk_seviyesi": "Düşük"
     },
     {
       "hisse_adi": "BIMAS",
-      "guncel_fiyat": 75.6,
-      "ortalama_satis_fiyati": 73.0,
-      "tahmini_satis_fiyati": 78.0,
-      "risk_seviyesi": "Düşük"
+      "guncel_fiyat": 45.6,
+      "ortalama_satis_fiyati": 43.0,
+      "tahmini_satis_fiyati": 48.0,
+      "risk_seviyesi": "Orta"
     },
     {
-      "hisse_adi": "ENKAI",
-      "guncel_fiyat": 11.2,
-      "ortalama_satis_fiyati": 10.8,
-      "tahmini_satis_fiyati": 11.8,
-      "risk_seviyesi": "Düşük"
+      "hisse_adi": "ARCLK",
+      "guncel_fiyat": 21.9,
+      "ortalama_satis_fiyati": 20.5,
+      "tahmini_satis_fiyati": 23.5,
+      "risk_seviyesi": "Orta"
     }
   ],
-  "genel_analiz": "Aylık piyasa genel durumu istikrarlı görünüyor. Yüksek volatilite beklenmiyor.",
-  "sektorel_analiz": "Bankacılık ve enerji sektörleri iyi performans gösteriyor.",
-  "makroekonomik_etkiler": "Enflasyonun düşmesi ve büyümenin devam etmesi olumlu etki yaratıyor."
+  "genel_analiz": "Aylık piyasa genel durumu olumlu.  Yüksek enflasyon ve küresel belirsizliklere rağmen, bazı sektörlerde güçlü bir büyüme potansiyeli gözlemlenmektedir.",
+  "sektorel_analiz": "Finans ve enerji sektörleri aylık bazda en iyi performansı gösteren sektörler olarak öne çıkmaktadır.",
+  "makroekonomik_etkiler": "Düşük faiz oranları ve artan tüketici harcamaları piyasayı olumlu etkilemektedir. Ancak yüksek enflasyon ve küresel ekonomik belirsizlikler risk faktörleri olarak değerlendirilmektedir."
 }
