@@ -1,0 +1,79 @@
+{
+  "analiz_tarihi": "12.08.2025",
+  "analiz_tipi": "Haftalık Teknik Analiz",
+  "analiz_donemi": "11.08.2025 - 17.08.2025",
+  "hisseler": [
+    {
+      "hisse_adi": "THYAO",
+      "guncel_fiyat": 100.5,
+      "ortalama_satis_fiyati": 98.0,
+      "tahmini_satis_fiyati": 105.0,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "GARAN",
+      "guncel_fiyat": 25.75,
+      "ortalama_satis_fiyati": 25.0,
+      "tahmini_satis_fiyati": 27.0,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "AKBNK",
+      "guncel_fiyat": 18.2,
+      "ortalama_satis_fiyati": 17.5,
+      "tahmini_satis_fiyati": 19.0,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "SASA",
+      "guncel_fiyat": 150.0,
+      "ortalama_satis_fiyati": 145.0,
+      "tahmini_satis_fiyati": 160.0,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "KRDMD",
+      "guncel_fiyat": 3.5,
+      "ortalama_satis_fiyati": 3.25,
+      "tahmini_satis_fiyati": 3.75,
+      "risk_seviyesi": "Yüksek"
+    },
+    {
+      "hisse_adi": "EREGL",
+      "guncel_fiyat": 7.8,
+      "ortalama_satis_fiyati": 7.5,
+      "tahmini_satis_fiyati": 8.2,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "TAVHL",
+      "guncel_fiyat": 12.4,
+      "ortalama_satis_fiyati": 12.0,
+      "tahmini_satis_fiyati": 13.0,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "PETKM",
+      "guncel_fiyat": 6.1,
+      "ortalama_satis_fiyati": 5.8,
+      "tahmini_satis_fiyati": 6.5,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "BIMAS",
+      "guncel_fiyat": 20.5,
+      "ortalama_satis_fiyati": 20.0,
+      "tahmini_satis_fiyati": 21.5,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "ISCTR",
+      "guncel_fiyat": 4.5,
+      "ortalama_satis_fiyati": 4.25,
+      "tahmini_satis_fiyati": 4.75,
+      "risk_seviyesi": "Yüksek"
+    }
+  ],
+  "genel_analiz": "Haftalık piyasa genel durumu istikrarlı görünüyor.  Bazı sektörlerde yükseliş trendi devam ederken, bazı sektörlerde ise yatay bir seyir gözlemlenmekte.  Dikkatli yatırım tavsiyesi önerilir.",
+  "sektorel_analiz": "En iyi performans gösteren sektörler; finans, enerji ve turizm sektörleri."
+}

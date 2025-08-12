@@ -1,0 +1,77 @@
+{
+  "analiz_tarihi": "12.08.2025",
+  "analiz_tipi": "Günlük Teknik Analiz",
+  "hisseler": [
+    {
+      "hisse_adi": "THYAO",
+      "guncel_fiyat": 100.5,
+      "ortalama_satis_fiyati": 98.0,
+      "tahmini_satis_fiyati": 105.0,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "GARAN",
+      "guncel_fiyat": 15.75,
+      "ortalama_satis_fiyati": 15.5,
+      "tahmini_satis_fiyati": 16.25,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "AKBNK",
+      "guncel_fiyat": 20.8,
+      "ortalama_satis_fiyati": 20.5,
+      "tahmini_satis_fiyati": 21.5,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "SASA",
+      "guncel_fiyat": 35.2,
+      "ortalama_satis_fiyati": 34.5,
+      "tahmini_satis_fiyati": 36.0,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "KRDMD",
+      "guncel_fiyat": 8.75,
+      "ortalama_satis_fiyati": 8.5,
+      "tahmini_satis_fiyati": 9.25,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "TAVHL",
+      "guncel_fiyat": 12.2,
+      "ortalama_satis_fiyati": 11.9,
+      "tahmini_satis_fiyati": 12.8,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "EREGL",
+      "guncel_fiyat": 28.5,
+      "ortalama_satis_fiyati": 27.8,
+      "tahmini_satis_fiyati": 29.5,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "BIMAS",
+      "guncel_fiyat": 45.1,
+      "ortalama_satis_fiyati": 44.0,
+      "tahmini_satis_fiyati": 46.5,
+      "risk_seviyesi": "Orta"
+    },
+    {
+      "hisse_adi": "ARCLK",
+      "guncel_fiyat": 18.9,
+      "ortalama_satis_fiyati": 18.5,
+      "tahmini_satis_fiyati": 19.5,
+      "risk_seviyesi": "Düşük"
+    },
+    {
+      "hisse_adi": "ISCTR",
+      "guncel_fiyat": 7.8,
+      "ortalama_satis_fiyati": 7.5,
+      "tahmini_satis_fiyati": 8.2,
+      "risk_seviyesi": "Düşük"
+    }
+  ],
+  "genel_analiz": "Piyasa genel olarak istikrarlı görünüyor.  Önerilen hisseler teknik göstergelere ve trend analizine göre seçilmiştir. Ancak, yatırım kararı almadan önce kendi araştırmalarınızı yapmanız ve risk toleransınızı değerlendirmeniz önemlidir."
+}
